@@ -1,0 +1,11 @@
+C:\Users\yfukesman\Downloads\projects\3D Robot\3D Robot 3\software\slicer-interface-3dr\3D Robot\Build\utilities\3dr scripting utility\3dr scripting utility\bin\Debug\3dr scripting utility.exe.config
+C:\Users\yfukesman\Downloads\projects\3D Robot\3D Robot 3\software\slicer-interface-3dr\3D Robot\Build\utilities\3dr scripting utility\3dr scripting utility\bin\Debug\3dr scripting utility.exe
+C:\Users\yfukesman\Downloads\projects\3D Robot\3D Robot 3\software\slicer-interface-3dr\3D Robot\Build\utilities\3dr scripting utility\3dr scripting utility\bin\Debug\3dr scripting utility.pdb
+C:\Users\yfukesman\Downloads\projects\3D Robot\3D Robot 3\software\slicer-interface-3dr\3D Robot\Build\utilities\3dr scripting utility\3dr scripting utility\obj\Debug\_3dr_scripting_utility.Form1.resources
+C:\Users\yfukesman\Downloads\projects\3D Robot\3D Robot 3\software\slicer-interface-3dr\3D Robot\Build\utilities\3dr scripting utility\3dr scripting utility\obj\Debug\_3dr_scripting_utility.Properties.Resources.resources
+C:\Users\yfukesman\Downloads\projects\3D Robot\3D Robot 3\software\slicer-interface-3dr\3D Robot\Build\utilities\3dr scripting utility\3dr scripting utility\obj\Debug\3dr scripting utility.csproj.GenerateResource.Cache
+C:\Users\yfukesman\Downloads\projects\3D Robot\3D Robot 3\software\slicer-interface-3dr\3D Robot\Build\utilities\3dr scripting utility\3dr scripting utility\obj\Debug\3dr scripting utility.csproj.CoreCompileInputs.cache
+C:\Users\yfukesman\Downloads\projects\3D Robot\3D Robot 3\software\slicer-interface-3dr\3D Robot\Build\utilities\3dr scripting utility\3dr scripting utility\obj\Debug\3dr scripting utility.exe
+C:\Users\yfukesman\Downloads\projects\3D Robot\3D Robot 3\software\slicer-interface-3dr\3D Robot\Build\utilities\3dr scripting utility\3dr scripting utility\obj\Debug\3dr scripting utility.pdb
+C:\Users\yfukesman\Downloads\projects\3D Robot\3D Robot 3\software\slicer-interface-3dr\3D Robot\Build\utilities\3dr scripting utility\3dr scripting utility\obj\Debug\3dr scripting utility.csprojResolveAssemblyReference.cache
+C:\Users\yfukesman\Downloads\projects\3D Robot\3D Robot 3\software\slicer-interface-3dr\3D Robot\Build\utilities\3dr scripting utility\3dr scripting utility\obj\Debug\_3dr_scripting_utility.ForLoop.resources

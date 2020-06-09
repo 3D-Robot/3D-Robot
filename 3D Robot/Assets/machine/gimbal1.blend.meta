@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 571b8fecf70c47d47aa4d388259bbc90
+timeCreated: 1513733724
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: gimbal1
+    100004: gimbal2
+    100006: gimbal3
+    100008: Cylinder
+    100010: Cylinder_001
+    100012: Connector
+    100014: Connector_Motor_Holder
+    100016: emt1
+    100018: Emt_End_To_Gimbal
+    100020: Geared_Motor
+    100022: Geared_Motor_001
+    100024: Last_Motor_To_Connector
+    100026: Middle_Motors_Connect
+    100028: Motor
+    100030: connector_end
+    100032: Empty
+    400000: //RootNode
+    400002: gimbal1
+    400004: gimbal2
+    400006: gimbal3
+    400008: Cylinder
+    400010: Cylinder_001
+    400012: Connector
+    400014: Connector_Motor_Holder
+    400016: emt1
+    400018: Emt_End_To_Gimbal
+    400020: Geared_Motor
+    400022: Geared_Motor_001
+    400024: Last_Motor_To_Connector
+    400026: Middle_Motors_Connect
+    400028: Motor
+    400030: connector_end
+    400032: Empty
+    2300000: gimbal1
+    2300002: gimbal2
+    2300004: gimbal3
+    2300006: Cylinder
+    2300008: Cylinder_001
+    2300010: Connector
+    2300012: Connector_Motor_Holder
+    2300014: emt1
+    2300016: Emt_End_To_Gimbal
+    2300018: Geared_Motor
+    2300020: Geared_Motor_001
+    2300022: Last_Motor_To_Connector
+    2300024: Middle_Motors_Connect
+    2300026: Motor
+    3300000: gimbal1
+    3300002: gimbal2
+    3300004: gimbal3
+    3300006: Cylinder
+    3300008: Cylinder_001
+    3300010: Connector
+    3300012: Connector_Motor_Holder
+    3300014: emt1
+    3300016: Emt_End_To_Gimbal
+    3300018: Geared_Motor
+    3300020: Geared_Motor_001
+    3300022: Last_Motor_To_Connector
+    3300024: Middle_Motors_Connect
+    3300026: Motor
+    4300000: gimbal3
+    4300002: gimbal2
+    4300004: gimbal1
+    4300006: Cylinder_001
+    4300008: Cylinder
+    4300010: Emt_End_To_Gimbal
+    4300012: Geared_Motor
+    4300014: Last_Motor_To_Connector
+    4300016: Motor
+    4300018: Connector_Motor_Holder
+    4300020: Connector
+    4300022: Middle_Motors_Connect
+    4300024: Geared_Motor_001
+    4300026: emt1
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: ede65a92ad78a8648bb8eb53eade0367, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
