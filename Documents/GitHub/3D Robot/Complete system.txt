@@ -1,0 +1,19 @@
+The complete systems should include
+1 3D Robot 4 + full cnc router + full cnc machine
+1 3d printer + extruder + metal 3d printer (through extrusion)
+1 cnc machine (mostly for post processing and circuit board and threading (cold forming operations))
+1 kiln for ceramics and metals sinistering
+All of these will be contianed within a toolrack supporting upto 9 of these 
+All of these will be raprep as per the new rules
+
+Raw Materials list
+1. plastic filaments (including all, e.g. continous carbon fiber reinforcments)
+2. powder filaments (still some time for this to become reality but when it does we include all metals and      ceramics ect.)
+3. sheets (of most materials including glass ect.)
+4. (imports are supported they are however cheating and therefore should not be used in important models)
+
+Extrusions should be 3d printed if they are to big then we will at some point have 3D Extruder and should operate through there until then it is under imports and should be able to be processed as needed by 3D Robot
+
+Tool rack serves to organize all of the 3D Builders and tool ends
+Materials feed is now the whole world however the user needs to say where all is 
+And there should be a way for the user to neatly organize raw materials for the 3D Robot to access and take

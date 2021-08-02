@@ -1,0 +1,5 @@
+1. CNC head
+2. desposition head (including a melter if needed / print head).
+3. Heating head (could be combined with above can also be connected to pure oxy tank).
+4. vacuum cleaner head / blower head (external head it is outside together with the shopvac and hose robot only connects and uses but does not store also can blow for more oxygen)
+5. any other task that 3D Robot needs to do and has a hard time doing directly we can have many tool heads as converters to make all those tasks easy

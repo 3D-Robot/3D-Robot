@@ -1,0 +1,1 @@
+Bearings - Print-in-Place 5 Sizes: 608, 609, 6000, 6002, 6004 by guppyk on Thingiverse: https://www.thingiverse.com/thing:4821342
